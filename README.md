@@ -7,4 +7,4 @@ Techniczne książki Certyfikowany tester ISTQB. Poziom podstawowy. Sylabus ISTQ
 Grupy testerskie: Tester oprogramowania- wsparcie na starcie, Testowanie oprogramowania, ISTQB- egzaminy, pytania, testy.
 Blogi i strony tematyczne: https://wyszkolewas.com.pl/, www.testerzy.pl, https://bugfreeblog.com/, https://odlaikadoautomatyka.pl/blog/
 Autorska dokumentacja testowa
-Projekty
+Projekty "Pomodoro-Kanban"- testy eksploracyjne, Tablica Kanbanowa- projektowanie przypadków testowych, http://skleptest.pl/- raportowanie defektów Jira,  
