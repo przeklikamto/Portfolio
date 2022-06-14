@@ -5,11 +5,11 @@ Zrealizowane projekty podczas stażu w TestArmy z zakresu: tworzenia przypadków
 W pierwszym kwartale roku 2022, postanowiłam przebranżowić się z HR-owca i podążyć ścieżką IT. Ukończyłam kurs Akademia Testowania, który utwierdził mnie w przekonaniu, że testowanie oprogramowania to coś dla mnie. Moim celem do końca tego roku, jest zapoznanie się z automatyzacją testów oraz znalezienie i poszerzenie wiedzy w pracy jako tester manualny.
 
 # Narzędzia 
-#TestLink, 
-#Jira, 
-#Selenium IDE, 
-#Trello, 
-#Slack.
+TestLink, 
+Jira, 
+Selenium IDE, 
+Trello, 
+Slack.
 
 # Kursy 
 *Akademia Testowania Testuj.pl,
