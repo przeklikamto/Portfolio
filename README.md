@@ -6,29 +6,29 @@ W pierwszym kwartale roku 2022, postanowiłam przebranżowić się z HR-owca i p
 Poniżej małe portfolio projektów zrealizowanych w ramach stażu. 
 
 # Narzędzia 
-TestLink, 
+ * TestLink, 
 
-Jira,
+ * Jira,
 
-Selenium IDE, 
+ * Selenium IDE, 
 
-POM Builder, 
+ * POM Builder, 
 
-Trello,
+ * Trello,
 
-Slack.
+ * Slack.
 
 # Kursy 
-Akademia Testowania Testuj.pl,
+* Akademia Testowania Testuj.pl,
 
-Testowanie oprogramowania Udemy,
+* Testowanie oprogramowania Udemy,
 
-SQL- kurs online testuj.pl
+* SQL- kurs online testuj.pl
 
 # Techniczne książki 
-*Certyfikowany tester ISTQB. Poziom podstawowy.
+* Certyfikowany tester ISTQB. Poziom podstawowy.
 
-*Sylabus ISTQB, 
+* Sylabus ISTQB, 
 
 # Grupy testerskie: 
 * Tester oprogramowania- wsparcie na starcie, https://www.facebook.com/groups/testeroprogramowania/
@@ -40,10 +40,14 @@ SQL- kurs online testuj.pl
 * Twstowanie oprogramowania- PRACA Ogłoszenia https://www.facebook.com/groups/testowanieoprogramowaniapraca/
 
 # Blogi i strony tematyczne: 
-1.Wyszkole Was- https://wyszkolewas.com.pl/, 
+1.Wyszkole Was- https://wyszkolewas.com.pl/,
+
 2.Testerzy- www.testerzy.pl, 
+
 3.Bugfreeblog- https://bugfreeblog.com/,
+
 4.Od laika do automatyka- https://odlaikadoautomatyka.pl/blog/
+
 
 # Autorska dokumentacja testowa
 ## RAPORT Z SESJI TESTÓW EKSPLORACYJNYCH "Pomodoro-kanban"
