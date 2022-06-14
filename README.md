@@ -11,16 +11,18 @@ Jira,
 
 Selenium IDE, 
 
+POM Builder, 
+
 Trello,
 
 Slack.
 
 # Kursy 
-*Akademia Testowania Testuj.pl,
+Akademia Testowania Testuj.pl,
 
-*Testowanie oprogramowania Udemy,
+Testowanie oprogramowania Udemy,
 
-*SQL- kurs online testuj.pl
+SQL- kurs online testuj.pl
 
 # Techniczne książki 
 *Certyfikowany tester ISTQB. Poziom podstawowy.
@@ -37,10 +39,10 @@ Slack.
 4.Twstowanie oprogramowania- PRACA Ogłoszenia https://www.facebook.com/groups/testowanieoprogramowaniapraca/
 
 # Blogi i strony tematyczne: 
-*Wyszkole Was- https://wyszkolewas.com.pl/, 
-*Testerzy- www.testerzy.pl, 
-*Bugfreeblog- https://bugfreeblog.com/,
-*Od laika do automatyka- https://odlaikadoautomatyka.pl/blog/
+1.Wyszkole Was- https://wyszkolewas.com.pl/, 
+2.Testerzy- www.testerzy.pl, 
+3.Bugfreeblog- https://bugfreeblog.com/,
+4.Od laika do automatyka- https://odlaikadoautomatyka.pl/blog/
 
 # Autorska dokumentacja testowa
 # RAPORT Z SESJI TESTÓW EKSPLORACYJNYCH "Pomodoro-kanban"
@@ -51,34 +53,36 @@ https://docs.google.com/document/d/1ahCnjtQsMhfec7165zmD-gpF_VY21Jmf6Xu0I1AARnk/
 https://docs.google.com/document/d/1LpPkMkTyHEcVtVn3x9uj8paBUhV7zqu3VJG83mjVHvY/edit?usp=sharing
 
 # ZESTAWY TESTOWE DLA TABLICY KANBANOWEJ + NOTATKA TESTERA 
-*ZESTAW 1 http://testowo.pl/testlink/linkto.php?tprojectPrefix=AG-4&item=testsuite&id=22873
+ZESTAW 1 http://testowo.pl/testlink/linkto.php?tprojectPrefix=AG-4&item=testsuite&id=22873
 
-*ZESTAW 2 http://testowo.pl/testlink/linkto.php?tprojectPrefix=AG-4&item=testsuite&id=22888
+ZESTAW 2 http://testowo.pl/testlink/linkto.php?tprojectPrefix=AG-4&item=testsuite&id=22888
 
-*ZESTAW 3 http://testowo.pl/testlink/linkto.php?tprojectPrefix=AG-4&item=testsuite&id=22889
+ZESTAW 3 http://testowo.pl/testlink/linkto.php?tprojectPrefix=AG-4&item=testsuite&id=22889
 
-*ZESTAW 4 http://testowo.pl/testlink/linkto.php?tprojectPrefix=AG-4&item=testsuite&id=22890
+ZESTAW 4 http://testowo.pl/testlink/linkto.php?tprojectPrefix=AG-4&item=testsuite&id=22890
 
-*ZESTAW 5 http://testowo.pl/testlink/linkto.php?tprojectPrefix=AG-4&item=testsuite&id=22891
+ZESTAW 5 http://testowo.pl/testlink/linkto.php?tprojectPrefix=AG-4&item=testsuite&id=22891
 
-*ZESTAW 6 http://testowo.pl/testlink/linkto.php?tprojectPrefix=AG-4&item=testsuite&id=22902
+ZESTAW 6 http://testowo.pl/testlink/linkto.php?tprojectPrefix=AG-4&item=testsuite&id=22902
 
-*NOTATKA TESTERA https://docs.google.com/document/d/1UVPf5Foma01kHmXgyzpU7FZJHOz9W6c_WEXziXfWBSA/edit?usp=sharing
+NOTATKA TESTERA https://docs.google.com/document/d/1UVPf5Foma01kHmXgyzpU7FZJHOz9W6c_WEXziXfWBSA/edit?usp=sharing
 
-*TEKSTY DO ODTWORZENIA PT https://docs.google.com/document/d/1bFo3EgoWeHKegK2AHJbxZ-nL3qRl6NE-AcrOQzPb0Ug/edit?usp=sharing
+TEKSTY DO ODTWORZENIA PT https://docs.google.com/document/d/1bFo3EgoWeHKegK2AHJbxZ-nL3qRl6NE-AcrOQzPb0Ug/edit?usp=sharing
 
 # RAPORTOWANIE DEFEKTÓW W JIRA
-*LINK DO DYSKU GOOGLE https://docs.google.com/document/d/1bFo3EgoWeHKegK2AHJbxZ-nL3qRl6NE-AcrOQzPb0Ug/edit?usp=sharing
+LINK DO DYSKU GOOGLE https://docs.google.com/document/d/1bFo3EgoWeHKegK2AHJbxZ-nL3qRl6NE-AcrOQzPb0Ug/edit?usp=sharing
 
-*SCREENSHOT https://drive.google.com/drive/folders/1gzRMJPQy4ZxxoKn6O0m7whQvZ4VLluna?usp=sharing
+SCREENSHOT https://drive.google.com/drive/folders/1gzRMJPQy4ZxxoKn6O0m7whQvZ4VLluna?usp=sharing
 
 # SELENIUM IDE - skrypty testów automatycznych, brak aserencji sprawdzających 
 
 https://drive.google.com/file/d/1pMRYJUicjH5tFgqjROIKjylEWL_6gQxp/view?usp=sharing
 
 # Projekty 
-*"Pomodoro-Kanban"- testy eksploracyjne, 
+"Pomodoro-Kanban"- testy eksploracyjne, 
 
-*Tablica Kanbanowa- projektowanie przypadków testowych, 
+Tablica Kanbanowa- projektowanie przypadków testowych, 
 
-*SKLEP INTERNETOWY http://skleptest.pl/- raportowanie defektów Jira,  
+SKLEP INTERNETOWY http://skleptest.pl/- raportowanie defektów Jira,  
+
+Sklep internetowy https://www.saucedemo.com/ Skrypty testów automatycznych dla wybranych Przypadków testowych,
