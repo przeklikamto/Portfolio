@@ -31,13 +31,13 @@ SQL- kurs online testuj.pl
 *Sylabus ISTQB, 
 
 # Grupy testerskie: 
-1.Tester oprogramowania- wsparcie na starcie, https://www.facebook.com/groups/testeroprogramowania/
+* Tester oprogramowania- wsparcie na starcie, https://www.facebook.com/groups/testeroprogramowania/
 
-2.Testowanie oprogramowania, https://www.facebook.com/groups/TestowanieOprogramowania/
+* Testowanie oprogramowania, https://www.facebook.com/groups/TestowanieOprogramowania/
 
-3.ISTQB- egzaminy, pytania, testy, https://www.facebook.com/groups/194288250951242/
+* ISTQB- egzaminy, pytania, testy, https://www.facebook.com/groups/194288250951242/
 
-4.Twstowanie oprogramowania- PRACA Ogłoszenia https://www.facebook.com/groups/testowanieoprogramowaniapraca/
+* Twstowanie oprogramowania- PRACA Ogłoszenia https://www.facebook.com/groups/testowanieoprogramowaniapraca/
 
 # Blogi i strony tematyczne: 
 1.Wyszkole Was- https://wyszkolewas.com.pl/, 
@@ -46,14 +46,14 @@ SQL- kurs online testuj.pl
 4.Od laika do automatyka- https://odlaikadoautomatyka.pl/blog/
 
 # Autorska dokumentacja testowa
-# RAPORT Z SESJI TESTÓW EKSPLORACYJNYCH "Pomodoro-kanban"
+## RAPORT Z SESJI TESTÓW EKSPLORACYJNYCH "Pomodoro-kanban"
 https://docs.google.com/document/d/1JSGi7iE1yxZZDXaJIafUaVFl34fGZSJdxlvji-HqGJI/edit?usp=sharing
 https://docs.google.com/document/d/1jKTRx9x9oLG1kKojv-8G8RHPQR_uZUv9RS0twRDKhWs/edit?usp=sharing
 https://docs.google.com/document/d/1jAAUUvD0FIYOBnTO5vH0Mpl8Xi9Hsfy0ZZQyrs8T6vM/edit?usp=sharing
 https://docs.google.com/document/d/1ahCnjtQsMhfec7165zmD-gpF_VY21Jmf6Xu0I1AARnk/edit?usp=sharing
 https://docs.google.com/document/d/1LpPkMkTyHEcVtVn3x9uj8paBUhV7zqu3VJG83mjVHvY/edit?usp=sharing
 
-# ZESTAWY TESTOWE DLA TABLICY KANBANOWEJ + NOTATKA TESTERA 
+## ZESTAWY TESTOWE DLA TABLICY KANBANOWEJ + NOTATKA TESTERA 
 ZESTAW 1 http://testowo.pl/testlink/linkto.php?tprojectPrefix=AG-4&item=testsuite&id=22873
 
 ZESTAW 2 http://testowo.pl/testlink/linkto.php?tprojectPrefix=AG-4&item=testsuite&id=22888
@@ -70,20 +70,20 @@ NOTATKA TESTERA https://docs.google.com/document/d/1UVPf5Foma01kHmXgyzpU7FZJHOz9
 
 TEKSTY DO ODTWORZENIA PT https://docs.google.com/document/d/1bFo3EgoWeHKegK2AHJbxZ-nL3qRl6NE-AcrOQzPb0Ug/edit?usp=sharing
 
-# RAPORTOWANIE DEFEKTÓW W JIRA
+## RAPORTOWANIE DEFEKTÓW W JIRA
 LINK DO DYSKU GOOGLE https://docs.google.com/document/d/1bFo3EgoWeHKegK2AHJbxZ-nL3qRl6NE-AcrOQzPb0Ug/edit?usp=sharing
 
 SCREENSHOT https://drive.google.com/drive/folders/1gzRMJPQy4ZxxoKn6O0m7whQvZ4VLluna?usp=sharing
 
-# SELENIUM IDE - skrypty testów automatycznych, brak aserencji sprawdzających 
+## SELENIUM IDE - skrypty testów automatycznych, brak aserencji sprawdzających 
 
 https://drive.google.com/file/d/1pMRYJUicjH5tFgqjROIKjylEWL_6gQxp/view?usp=sharing
 
 # Projekty 
-"Pomodoro-Kanban"- testy eksploracyjne, 
+* "Pomodoro-Kanban"- testy eksploracyjne, 
 
-Tablica Kanbanowa- projektowanie przypadków testowych, 
+* Tablica Kanbanowa- projektowanie przypadków testowych, 
 
-SKLEP INTERNETOWY http://skleptest.pl/- raportowanie defektów Jira,  
+* SKLEP INTERNETOWY http://skleptest.pl/- raportowanie defektów Jira,  
 
-Sklep internetowy https://www.saucedemo.com/ Skrypty testów automatycznych dla wybranych Przypadków testowych,
+* Sklep internetowy https://www.saucedemo.com/ Skrypty testów automatycznych dla wybranych Przypadków testowych,
