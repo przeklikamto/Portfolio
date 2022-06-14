@@ -6,25 +6,35 @@ W pierwszym kwartale roku 2022, postanowiłam przebranżowić się z HR-owca i p
 
 # Narzędzia 
 TestLink, 
-Jira, 
+
+Jira,
+
 Selenium IDE, 
-Trello, 
+
+Trello,
+
 Slack.
 
 # Kursy 
 *Akademia Testowania Testuj.pl,
-*Testowanie oprogramowania Udemy, 
+
+*Testowanie oprogramowania Udemy,
+
 *SQL- kurs online testuj.pl
 
 # Techniczne książki 
-*Certyfikowany tester ISTQB. Poziom podstawowy. 
+*Certyfikowany tester ISTQB. Poziom podstawowy.
+
 *Sylabus ISTQB, 
 
 # Grupy testerskie: 
-*Tester oprogramowania- wsparcie na starcie, https://www.facebook.com/groups/testeroprogramowania/
-*Testowanie oprogramowania, https://www.facebook.com/groups/TestowanieOprogramowania/
-*ISTQB- egzaminy, pytania, testy, https://www.facebook.com/groups/194288250951242/
-*Twstowanie oprogramowania- PRACA Ogłoszenia https://www.facebook.com/groups/testowanieoprogramowaniapraca/
+1.Tester oprogramowania- wsparcie na starcie, https://www.facebook.com/groups/testeroprogramowania/
+
+2.Testowanie oprogramowania, https://www.facebook.com/groups/TestowanieOprogramowania/
+
+3.ISTQB- egzaminy, pytania, testy, https://www.facebook.com/groups/194288250951242/
+
+4.Twstowanie oprogramowania- PRACA Ogłoszenia https://www.facebook.com/groups/testowanieoprogramowaniapraca/
 
 # Blogi i strony tematyczne: 
 *Wyszkole Was- https://wyszkolewas.com.pl/, 
@@ -42,22 +52,33 @@ https://docs.google.com/document/d/1LpPkMkTyHEcVtVn3x9uj8paBUhV7zqu3VJG83mjVHvY/
 
 # ZESTAWY TESTOWE DLA TABLICY KANBANOWEJ + NOTATKA TESTERA 
 *ZESTAW 1 http://testowo.pl/testlink/linkto.php?tprojectPrefix=AG-4&item=testsuite&id=22873
+
 *ZESTAW 2 http://testowo.pl/testlink/linkto.php?tprojectPrefix=AG-4&item=testsuite&id=22888
+
 *ZESTAW 3 http://testowo.pl/testlink/linkto.php?tprojectPrefix=AG-4&item=testsuite&id=22889
+
 *ZESTAW 4 http://testowo.pl/testlink/linkto.php?tprojectPrefix=AG-4&item=testsuite&id=22890
+
 *ZESTAW 5 http://testowo.pl/testlink/linkto.php?tprojectPrefix=AG-4&item=testsuite&id=22891
+
 *ZESTAW 6 http://testowo.pl/testlink/linkto.php?tprojectPrefix=AG-4&item=testsuite&id=22902
+
 *NOTATKA TESTERA https://docs.google.com/document/d/1UVPf5Foma01kHmXgyzpU7FZJHOz9W6c_WEXziXfWBSA/edit?usp=sharing
+
 *TEKSTY DO ODTWORZENIA PT https://docs.google.com/document/d/1bFo3EgoWeHKegK2AHJbxZ-nL3qRl6NE-AcrOQzPb0Ug/edit?usp=sharing
 
 # RAPORTOWANIE DEFEKTÓW W JIRA
 *LINK DO DYSKU GOOGLE https://docs.google.com/document/d/1bFo3EgoWeHKegK2AHJbxZ-nL3qRl6NE-AcrOQzPb0Ug/edit?usp=sharing
+
 *SCREENSHOT https://drive.google.com/drive/folders/1gzRMJPQy4ZxxoKn6O0m7whQvZ4VLluna?usp=sharing
 
 # SELENIUM IDE - skrypty testów automatycznych, brak aserencji sprawdzających 
+
 https://drive.google.com/file/d/1pMRYJUicjH5tFgqjROIKjylEWL_6gQxp/view?usp=sharing
 
 # Projekty 
 *"Pomodoro-Kanban"- testy eksploracyjne, 
+
 *Tablica Kanbanowa- projektowanie przypadków testowych, 
+
 *SKLEP INTERNETOWY http://skleptest.pl/- raportowanie defektów Jira,  
