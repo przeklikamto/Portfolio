@@ -61,6 +61,10 @@ KRÓTKI OPIS PROJEKTU https://docs.google.com/document/d/1UpXIjx9IbRyolby_bl9czf
  * https://docs.google.com/document/d/1LpPkMkTyHEcVtVn3x9uj8paBUhV7zqu3VJG83mjVHvY/edit?usp=sharing
 
 ## ZESTAWY TESTOWE DLA TABLICY KANBANOWEJ + NOTATKA TESTERA 
+
+OPIS PROJEKTU: https://docs.google.com/document/d/1f6D4ccD_VUKdtoNnFDBBKd5tpefi6xoqvinFQWpqxUo/edit?usp=sharing
+
+
 ZESTAW 1 http://testowo.pl/testlink/linkto.php?tprojectPrefix=AG-4&item=testsuite&id=22873
 
 ZESTAW 2 http://testowo.pl/testlink/linkto.php?tprojectPrefix=AG-4&item=testsuite&id=22888
