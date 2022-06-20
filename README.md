@@ -74,7 +74,7 @@ NOTATKA TESTERA https://docs.google.com/document/d/1UVPf5Foma01kHmXgyzpU7FZJHOz9
 
 TEKSTY DO ODTWORZENIA PT https://docs.google.com/document/d/1bFo3EgoWeHKegK2AHJbxZ-nL3qRl6NE-AcrOQzPb0Ug/edit?usp=sharing
 
-CAŁA DOKUMENTACJA TESTLINK http://testowo.pl/testlink/lib/results/printDocument.php?type=testspec&level=testproject&allOptionsOn=1&format=0&id=22115&form_token=0
+CAŁA DOKUMENTACJA TESTLINK https://docs.google.com/document/d/1ubi8siFVLfwT1rSTPAD-5VjYi2TMx8Hq/edit?usp=sharing&ouid=100049474372794359474&rtpof=true&sd=true
 
 
 ## RAPORTOWANIE DEFEKTÓW W JIRA
