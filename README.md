@@ -85,6 +85,9 @@ CAŁA DOKUMENTACJA TESTLINK Word https://docs.google.com/document/d/1ubi8siFVLfw
 
 
 ## RAPORTOWANIE DEFEKTÓW W JIRA
+
+OPIS PROJEKTU: https://docs.google.com/document/d/1psNTdrjVBR3z499dER1opKN2sle1Dwm4K6EJdHrsKck/edit?usp=sharing
+
 LINK DO DYSKU GOOGLE https://docs.google.com/document/d/1bFo3EgoWeHKegK2AHJbxZ-nL3qRl6NE-AcrOQzPb0Ug/edit?usp=sharing
 
 SCREENSHOT https://drive.google.com/drive/folders/1gzRMJPQy4ZxxoKn6O0m7whQvZ4VLluna?usp=sharing
