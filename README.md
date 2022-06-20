@@ -54,11 +54,11 @@ Poniżej małe portfolio projektów zrealizowanych w ramach stażu.
 
 KRÓTKI OPIS PROJEKTU https://docs.google.com/document/d/1UpXIjx9IbRyolby_bl9czfjXPkv_nuONOF7_7ZmDI-w/edit?usp=sharing
 
-https://docs.google.com/document/d/1JSGi7iE1yxZZDXaJIafUaVFl34fGZSJdxlvji-HqGJI/edit?usp=sharing
-https://docs.google.com/document/d/1jKTRx9x9oLG1kKojv-8G8RHPQR_uZUv9RS0twRDKhWs/edit?usp=sharing
-https://docs.google.com/document/d/1jAAUUvD0FIYOBnTO5vH0Mpl8Xi9Hsfy0ZZQyrs8T6vM/edit?usp=sharing
-https://docs.google.com/document/d/1ahCnjtQsMhfec7165zmD-gpF_VY21Jmf6Xu0I1AARnk/edit?usp=sharing
-https://docs.google.com/document/d/1LpPkMkTyHEcVtVn3x9uj8paBUhV7zqu3VJG83mjVHvY/edit?usp=sharing
+ * https://docs.google.com/document/d/1JSGi7iE1yxZZDXaJIafUaVFl34fGZSJdxlvji-HqGJI/edit?usp=sharing
+ * https://docs.google.com/document/d/1jKTRx9x9oLG1kKojv-8G8RHPQR_uZUv9RS0twRDKhWs/edit?usp=sharing
+ * https://docs.google.com/document/d/1jAAUUvD0FIYOBnTO5vH0Mpl8Xi9Hsfy0ZZQyrs8T6vM/edit?usp=sharing
+ * https://docs.google.com/document/d/1ahCnjtQsMhfec7165zmD-gpF_VY21Jmf6Xu0I1AARnk/edit?usp=sharing
+ * https://docs.google.com/document/d/1LpPkMkTyHEcVtVn3x9uj8paBUhV7zqu3VJG83mjVHvY/edit?usp=sharing
 
 ## ZESTAWY TESTOWE DLA TABLICY KANBANOWEJ + NOTATKA TESTERA 
 ZESTAW 1 http://testowo.pl/testlink/linkto.php?tprojectPrefix=AG-4&item=testsuite&id=22873
