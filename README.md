@@ -50,6 +50,10 @@ Poniżej małe portfolio projektów zrealizowanych w ramach stażu.
 
 
 # Autorska dokumentacja testowa
+
+## PREZENTACJA PowerPoint z podsumowaniem zrealizowanych projektów 
+ * https://docs.google.com/presentation/d/1u_Pz9iDP963cjj5TTGdpoqTxY53RWe73EyFn9axhFn8/edit?usp=sharing
+
 ## RAPORT Z SESJI TESTÓW EKSPLORACYJNYCH "Pomodoro-kanban"
 
 KRÓTKI OPIS PROJEKTU https://docs.google.com/document/d/1UpXIjx9IbRyolby_bl9czfjXPkv_nuONOF7_7ZmDI-w/edit?usp=sharing
